@@ -18,4 +18,4 @@
 As creator of this ddos attacker i don't take ANY RESPONSIBILITY at all.
 You are using it at your own risk .
 
-![Banner](./image/banner.png)
+![Banner](./image/banner.jpg)
